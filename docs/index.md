@@ -1,25 +1,23 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "PPP"
-  text: "SITE"
-  tagline: My great project tagline
+  name: "uhaka"
+  text: "网站"
+  tagline: 我的精彩项目标语
   actions:
     - theme: brand
-      text: bbbbb
+      text: 立即开始
       link: /a1
     - theme: alt
-      text: ccccc
+      text: 了解更多
       link: /a2
 
 # features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: 特性A
+#     details: 详细描述关于特性A的内容
+#   - title: 特性B
+#     details: 详细描述关于特性B的内容
+#   - title: 特性C
+#     details: 详细描述关于特性C的内容
 ---
-
